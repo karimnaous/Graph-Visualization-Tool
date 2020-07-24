@@ -1,0 +1,119 @@
+Transplant Center,City,Region,Address,Lat,Long,Liver Arrival Rate,Registerer Arrival Rate,Total waitlist,Deaths
+ALUA - University of Alabama Hospital,"Birmingham, AL",3,"ALUA - University of Alabama Hospital, Birmingham, AL, USA",33.50715499,-86.79395949,131.5,197,123,19
+ARUA - UAMS Medical Center,"Little Rock, AR",3,"ARUA - UAMS Medical Center, Little Rock, AR, USA",34.74435234,-92.38446501,36,62,48,2.5
+AZGS - Banner-University Medical Center Phoenix,"Phoenix, AZ",5,"AZGS - Banner-University Medical Center Phoenix, Phoenix, AZ, USA",33.46431,-112.05879,92.5,114,59.5,9.5
+AZMC - Mayo Clinic Hospital,"Phoenix, AZ",5,"AZMC - Mayo Clinic Hospital, Phoenix, AZ, USA",33.6578,-111.95395,117,132.5,109,6
+AZSJ - St. Joseph's Hospital and Medical Center,"Phoenix, AZ",5,"AZSJ - St. Joseph's Hospital and Medical Center, Phoenix, AZ, USA",33.48177,-112.07997,14.5,30.5,17.5,1.5
+AZUA - Banner University Medical Center-Tucson,"Tucson, AZ",5,"AZUA - Banner University Medical Center-Tucson, Tucson, AZ, USA",32.24243,-110.94733,17.5,23,14.5,1
+CACS - Cedars-Sinai Medical Center,"Los Angeles, CA",5,"CACS - Cedars-Sinai Medical Center, Los Angeles, CA, USA",34.07527,-118.38062,90,118,165,10
+CAGH - Scripps Green Hospital,"La Jolla, CA",5,"CAGH - Scripps Green Hospital, La Jolla, CA, USA",38.34574,-121.63968,33.5,48,76.5,9
+CALL - Loma Linda University Medical Center,"Loma Linda, CA",5,"CALL - Loma Linda University Medical Center, Loma Linda, CA, USA",34.04948,-117.26366,65.5,105,124,18
+CAMB - UCSF Medical Center at Mission Bay,"San Francisco, CA",5,"CAMB - UCSF Medical Center at Mission Bay, San Francisco, CA, USA",37.7669,-122.38979,9,13,11.5,1.5
+CAPM - California Pacific Medical Center-Van Ness Campus,"San Francisco, CA",5,"CAPM - California Pacific Medical Center-Van Ness Campus, San Francisco, CA, USA",37.77712,-122.41964,61,116.5,225,8.5
+CASD - University of California San Diego Medical Center,"San Diego, CA",5,"CASD - University of California San Diego Medical Center, San Diego, CA, USA",32.75388,-117.16555,33.5,82,115,12.5
+CASF - University of California San Francisco Medical Center,"San Francisco, CA",5,"CASF - University of California San Francisco Medical Center, San Francisco, CA, USA",37.76321,-122.45796,176.5,328,716.5,51
+CASU - Stanford Health Care,"Stanford, CA",5,"CASU - Stanford Health Care, Stanford, CA, USA",37.43429,-122.1769,86.5,156.5,370.5,20
+CAUC - University of California at Los Angeles Medical Center,"Los Angeles, CA",5,"CAUC - University of California at Los Angeles Medical Center, Los Angeles, CA, USA",34.13770004,-117.9950299,157.5,356.5,452.5,48.5
+CAUH - Keck Hospital of USC,"Los Angeles, CA",5,"CAUH - Keck Hospital of USC, Los Angeles, CA, USA",34.58373021,-118.1470906,103,185,270.5,26.5
+COPM - Centura Porter Adventist Hospital ,"Denver, CO",8,"COPM - Centura Porter Adventist Hospital , Denver, CO, USA",39.67005,-104.97489,14,29,34.5,4.5
+COSL - Presbyterian/St Luke's Medical Center,"Denver, CO",8,"COSL - Presbyterian/St Luke's Medical Center, Denver, CO, USA",39.74658,-104.96672,12,52.5,63,2
+COUC - University of Colorado Hospital/Health Science Center,"Aurora, CO",8,"COUC - University of Colorado Hospital/Health Science Center, Aurora, CO, USA",39.70932,-104.81458,97.5,126,396,22.5
+CTHH - Hartford Hospital,"Hartford, CT",1,"CTHH - Hartford Hospital, Hartford, CT, USA",41.75437,-72.67905,28,40,31,5
+CTYN - Yale New Haven Hospital,"New Haven, CT",1,"CTYN - Yale New Haven Hospital, New Haven, CT, USA",41.31029,-72.94355,27,60,103.5,6
+DCGU - Georgetown University Medical Center,"Washington, DC",2,"DCGU - Georgetown University Medical Center, Washington, DC, USA",38.9109796,-77.07824017,122,211,265.5,32
+FLBC - Broward Health Medical Center,"Ft. Lauderdale, FL",3,"FLBC - Broward Health Medical Center, Ft. Lauderdale, FL, USA",26.10207,-80.14087,16.5,33.5,25,1
+FLCC - Cleveland Clinic Florida Weston,"Weston, FL",3,"FLCC - Cleveland Clinic Florida Weston, Weston, FL, USA",26.08269,-80.36416,61,79,54.5,4
+FLFH - AdventHealth Orlando,"Orlando, FL",3,"FLFH - AdventHealth Orlando, Orlando, FL, USA",28.57325,-81.36974,66.5,73.5,29,2
+FLJM - Jackson Memorial Hospital University of Miami School of Medicine,"Miami, FL",3,"FLJM - Jackson Memorial Hospital University of Miami School of Medicine, Miami, FL, USA",25.77481,-80.19773,138.5,188,134,21
+FLLM - Largo Medical Center,"Largo, FL",3,"FLLM - Largo Medical Center, Largo, FL, USA",27.91447,-82.80324,6,10,4.5,0
+FLSL - Mayo Clinic Florida,"Jacksonville, FL",3,"FLSL - Mayo Clinic Florida, Jacksonville, FL, USA",30.26109,-81.44306,156.5,194.5,107.5,6
+FLTG - Tampa General Hospital,"Tampa, FL",3,"FLTG - Tampa General Hospital, Tampa, FL, USA",27.93753,-82.45929,67,93,59,2.5
+FLUF - UF Health Shands Hospital,"Gainesville, FL",3,"FLUF - UF Health Shands Hospital, Gainesville, FL, USA",29.6398,-82.34271,29.5,59,82.5,4
+GAEM - Emory University Hospital,"Atlanta, GA",3,"GAEM - Emory University Hospital, Atlanta, GA, USA",33.79232,-84.32186,126,188.5,154.5,19
+GAPH - Piedmont Hospital,"Atlanta, GA",3,"GAPH - Piedmont Hospital, Atlanta, GA, USA",33.80885,-84.39554,118.5,170.5,208,10.5
+HIQM - The Queen's Medical Center,"Honolulu, HI",6,"HIQM - The Queen's Medical Center, Honolulu, HI, USA",21.30781,-157.85394,14.5,18,28,5
+IAIV - University of Iowa Hospitals and Clinics Transplant Programs,"Iowa City, IA",8,"IAIV - University of Iowa Hospitals and Clinics Transplant Programs, Iowa City, IA, USA",41.65985,-91.54804,24.5,49.5,36,6
+ILLU - Loyola University Medical Center,"Maywood, IL",7,"ILLU - Loyola University Medical Center, Maywood, IL, USA",41.85952,-87.8341,59,108.5,139.5,13.5
+ILNM - Northwestern Memorial Hospital,"Chicago, IL",7,"ILNM - Northwestern Memorial Hospital, Chicago, IL, USA",41.89495,-87.62223,102,136.5,69.5,6.5
+ILPL - Rush University Medical Center,"Chicago, IL",7,"ILPL - Rush University Medical Center, Chicago, IL, USA",41.87449,-87.66819,28.5,45,39,1.5
+ILUC - University of Chicago Medical Center,"Chicago, IL",7,"ILUC - University of Chicago Medical Center, Chicago, IL, USA",41.80016,-87.58866,28.5,42.5,31.5,1
+ILUI - University of Illinois Medical Center,"Chicago, IL",7,"ILUI - University of Illinois Medical Center, Chicago, IL, USA",41.86922,-87.67062,33.5,79,64,5.5
+INIM - Indiana University Health,"Indianapolis, IN",10,"INIM - Indiana University Health, Indianapolis, IN, USA",39.77157,-86.17562,155.5,189.5,68,6
+KSUK - University of Kansas Hospital,"Kansas City, KS",8,"KSUK - University of Kansas Hospital, Kansas City, KS, USA",39.05615,-94.61062,92.5,128,107.5,8
+KYJH - Jewish Hospital,"Louisville, KY",11,"KYJH - Jewish Hospital, Louisville, KY, USA",38.25489,-85.76666,36,52,45,1
+KYUK - University of Kentucky Medical Center,"Lexington, KY",11,"KYUK - University of Kentucky Medical Center, Lexington, KY, USA",38.04859,-84.50032,41.5,101,128.5,22.5
+LAOF - Ochsner Foundation Hospital,"New Orleans, LA",3,"LAOF - Ochsner Foundation Hospital, New Orleans, LA, USA",29.9537,-90.07775,191.5,229.5,97,6.5
+LATU - Tulane Medical Center,"New Orleans, LA",3,"LATU - Tulane Medical Center, New Orleans, LA, USA",29.95512,-90.07574,19.5,26.5,14,1
+LAWK - Willis-Knighton Medical Center,"Shreveport, LA",3,"LAWK - Willis-Knighton Medical Center, Shreveport, LA, USA",32.48296,-93.78217,21,36,56.5,3.5
+MABI - Beth Israel Deaconess Medical Center,"Boston, MA",1,"MABI - Beth Israel Deaconess Medical Center, Boston, MA, USA",42.33831,-71.10613,30.5,65,84,1
+MALC - Lahey Clinic Medical Center,"Burlington, MA",1,"MALC - Lahey Clinic Medical Center, Burlington, MA, USA",42.50595,-71.194,104,131.5,120.5,17.5
+MAMG - Massachusetts General Hospital,"Boston, MA",1,"MAMG - Massachusetts General Hospital, Boston, MA, USA",42.36278,-71.06867,73.5,181.5,289.5,29
+MAUM - UMass Memorial Medical Center,"Worcester, MA",1,"MAUM - UMass Memorial Medical Center, Worcester, MA, USA",42.27625,-71.76208,64,135.5,285.5,15.5
+MDJH - Johns Hopkins Hospital,"Baltimore, MD",2,"MDJH - Johns Hopkins Hospital, Baltimore, MD, USA",39.2973,-76.5933,113.5,193.5,393.5,25
+MDUM - University of Maryland Medical System,"Baltimore, MD",2,"MDUM - University of Maryland Medical System, Baltimore, MD, USA",39.29944,-76.62043,151,242,438,45
+MIBH - William Beaumont Hospital,"Royal Oak, MI",10,"MIBH - William Beaumont Hospital, Royal Oak, MI, USA",42.51419,-83.19269,28.5,46,41,0.5
+MIHF - Henry Ford Hospital,"Detroit, MI",10,"MIHF - Henry Ford Hospital, Detroit, MI, USA",42.36614,-83.08569,111.5,171,197,17
+MIUM - University of Michigan Medical Center,"Ann Arbor, MI",10,"MIUM - University of Michigan Medical Center, Ann Arbor, MI, USA",42.28476,-83.72766,79,117.5,160,18
+MNMC - Rochester Methodist Hospital (Mayo Clinic),"Rochester, MN",7,"MNMC - Rochester Methodist Hospital (Mayo Clinic), Rochester, MN, USA",44.01932,-92.45942,113,182.5,282,14
+MNSM - Saint Marys Hospital (Mayo Clinic),"Rochester, MN",7,"MNSM - Saint Marys Hospital (Mayo Clinic), Rochester, MN, USA",44.02135,-92.48209,7,11.5,11,0
+"MNUM - University of Minnesota Medical Center, Fairview","Minneapolis, MN",7,"MNUM - University of Minnesota Medical Center, Fairview, Minneapolis, MN, USA",44.97128,-93.23061,72,95,158.5,25
+MOBH - Barnes-Jewish Hospital,"St. Louis, MO",8,"MOBH - Barnes-Jewish Hospital, St. Louis, MO, USA",38.6349189,-90.26476016,110,137,87,11.5
+MOLH - St Luke's Hospital of Kansas City,"Kansas City, MO",8,"MOLH - St Luke's Hospital of Kansas City, Kansas City, MO, USA",39.04664,-94.59012,18,28.5,18,0.5
+MOSL - SSM Health Saint Louis University Hospital,"St Louis, MO",8,"MOSL - SSM Health Saint Louis University Hospital, St Louis, MO, USA",38.62303,-90.23933,31.5,58,72,2.5
+MSUM - University of Mississippi Medical Center,"Jackson, MS",3,"MSUM - University of Mississippi Medical Center, Jackson, MS, USA",32.32871,-90.17546,38.5,47,13,2
+NCCM - Carolinas Medical Center,"Charlotte, NC",11,"NCCM - Carolinas Medical Center, Charlotte, NC, USA",35.09197,-80.87117,78,103,97,9
+NCDU - Duke University Hospital,"Durham, NC",11,"NCDU - Duke University Hospital, Durham, NC, USA",36.03724,-78.89964,99,134,64.5,5.5
+NCMH - University of North Carolina Hospitals,"Chapel Hill, NC",11,"NCMH - University of North Carolina Hospitals, Chapel Hill, NC, USA",35.90702,-79.04186,38.5,80,68.5,8
+NEUN - The Nebraska Medical Center,"Omaha, NE",8,"NEUN - The Nebraska Medical Center, Omaha, NE, USA",41.25667,-95.9772,90,132.5,161.5,20
+NJLL - Our Lady of Lourdes Medical Center,"Camden, NJ",2,"NJLL - Our Lady of Lourdes Medical Center, Camden, NJ, USA",39.94525,-75.11913,16,46,47,2
+NJUH - University Hospital,"Newark, NJ",2,"NJUH - University Hospital, Newark, NJ, USA",40.74109,-74.191,21.5,51,75,5.5
+NYCP - NY Presbyterian Hospital/Columbia Univ. Medical Center,"New York, NY",9,"NYCP - NY Presbyterian Hospital/Columbia Univ. Medical Center, New York, NY, USA",40.84128,-73.94032,81.5,115.5,173.5,6
+"NYFL - Strong Memorial Hospital, University of Rochester Medical Center","Rochester, NY",9,"NYFL - Strong Memorial Hospital, University of Rochester Medical Center, Rochester, NY, USA",43.12307,-77.62349,40.5,55,42,11
+NYMA - Montefiore Medical Center,"Bronx, NY",9,"NYMA - Montefiore Medical Center, Bronx, NY, USA",40.826,-73.92309,47.5,88.5,84,3
+NYMS - Mount Sinai Medical Center,"New York, NY",9,"NYMS - Mount Sinai Medical Center, New York, NY, USA",40.77008,-73.98782,137,313.5,381,60
+NYNY - New York-Presbyterian Hospital/Weill Cornell Medical Center,"New York, NY",9,"NYNY - New York-Presbyterian Hospital/Weill Cornell Medical Center, New York, NY, USA",40.87289,-73.91246,43,84,78.5,4
+NYUC - New York University Medical Center,"New York, NY",9,"NYUC - New York University Medical Center, New York, NY, USA",40.84128,-73.94032,51,104,267.5,15
+NYWC - Westchester Medical Center,"Valhalla, NY",9,"NYWC - Westchester Medical Center, Valhalla, NY, USA",41.08673,-73.80512,27,56,96,7
+OHCC - The Cleveland Clinic Foundation,"Cleveland, OH",10,"OHCC - The Cleveland Clinic Foundation, Cleveland, OH, USA",41.50456,-81.62173,159.5,217,173.5,15.5
+OHOU - Ohio State University Medical Center,"Columbus, OH",10,"OHOU - Ohio State University Medical Center, Columbus, OH, USA",39.99493,-83.01756,100,140,73.5,5.5
+OHUC - University of Cincinnati Medical Center,"Cincinnati, OH",10,"OHUC - University of Cincinnati Medical Center, Cincinnati, OH, USA",39.13737,-84.50347,104,159,155.5,10
+OHUH - University Hospitals of Cleveland,"Cleveland, OH",10,"OHUH - University Hospitals of Cleveland, Cleveland, OH, USA",41.50712192,-81.60682044,18.5,53,78.5,6
+OKBC - Integris Baptist Medical Center,"Oklahoma City, OK",4,"OKBC - Integris Baptist Medical Center, Oklahoma City, OK, USA",35.52914,-97.57598,47,89.5,148.5,12
+OKMD - OU Medical Center,"Oklahoma City, OK",4,"OKMD - OU Medical Center, Oklahoma City, OK, USA",35.65535002,-97.45935994,4.5,4,3.5,1.5
+ORUO - Oregon Health and Science University,"Portland, OR",6,"ORUO - Oregon Health and Science University, Portland, OR, USA",45.49892,-122.67128,65.5,101.5,94.5,6
+ORVA - VA Portland Health Care System,"Portland, OR",6,"ORVA - VA Portland Health Care System, Portland, OR, USA",45.51179,-122.67563,19,37.5,54.5,0.5
+PAAE - Albert Einstein Medical Center,"Philadelphia, PA",2,"PAAE - Albert Einstein Medical Center, Philadelphia, PA, USA",40.03673,-75.14356,71,110.5,45.5,4
+PAAG - Allegheny General Hospital,"Pittsburgh, PA",2,"PAAG - Allegheny General Hospital, Pittsburgh, PA, USA",40.45704,-80.00362,35,58.5,59,5
+PAGM - Geisinger Medical Center,"Danville, PA",2,"PAGM - Geisinger Medical Center, Danville, PA, USA",40.97124,-76.60108,16.5,26.5,18,3.5
+PAHE - Penn State Milton S Hershey Medical Center,"Hershey, PA",2,"PAHE - Penn State Milton S Hershey Medical Center, Hershey, PA, USA",40.26441,-76.67401,21.5,58.5,100.5,4.5
+PAHM - Hahnemann University Hospital,"Philadelphia, PA",2,"PAHM - Hahnemann University Hospital, Philadelphia, PA, USA",39.95822,-75.16271,17,42,35,1.5
+PAPT - University of Pittsburgh Medical Center,"Pittsburgh, PA",2,"PAPT - University of Pittsburgh Medical Center, Pittsburgh, PA, USA",40.68271,-80.09845,111,138,112,18
+PATJ - Thomas Jefferson University Hospital,"Philadelphia, PA",2,"PATJ - Thomas Jefferson University Hospital, Philadelphia, PA, USA",39.94982,-75.15867,77.5,124,97.5,10
+PATU - Temple University Hospital,"Philadelphia, PA",2,"PATU - Temple University Hospital, Philadelphia, PA, USA",39.99075,-75.13091,6.5,27.5,27.5,3.5
+PAUP - Hospital of the University of Pennsylvania,"Philadelphia, PA",2,"PAUP - Hospital of the University of Pennsylvania, Philadelphia, PA, USA",39.95037,-75.19698,127,199,140,11
+PAVA - VA Pittsburgh Healthcare System,"Pittsburgh, PA",2,"PAVA - VA Pittsburgh Healthcare System, Pittsburgh, PA, USA",40.43851,-79.99734,40,60.5,91.5,5.5
+PRSJ - Auxilio Mutuo Hospital,"Hato Rey, PR",3,"PRSJ - Auxilio Mutuo Hospital, Hato Rey, PR, USA",18.41003,-66.05134,36.5,49,20,5
+SCMU - Medical University of South Carolina,"Charleston, SC",11,"SCMU - Medical University of South Carolina, Charleston, SC, USA",32.78565,-79.94676,87,111.5,48,10.5
+SDMK - Avera McKennan Hospital,"Sioux Falls, SD",7,"SDMK - Avera McKennan Hospital, Sioux Falls, SD, USA",43.53374,-96.71485,7.5,32,26,3
+TNMH - Methodist University Hospital,"Memphis, TN",11,"TNMH - Methodist University Hospital, Memphis, TN, USA",35.1364,-90.01928,114,132,49,3
+TNVU - Vanderbilt University Medical Center and Nashville VA Medical Center,"Nashville, TN",11,"TNVU - Vanderbilt University Medical Center and Nashville VA Medical Center, Nashville, TN, USA",36.14127,-86.80197,134.5,205.5,166,11
+TXAS - Baylor Scott and White All Saints Medical Center-Fort Worth,"Fort Worth, TX",4,"TXAS - Baylor Scott and White All Saints Medical Center-Fort Worth, Fort Worth, TX, USA",32.72967,-97.34559,26.5,134,103,7.5
+"TXBC - University Hospital, University of Texas Health Science Center","San Antonio, TX",4,"TXBC - University Hospital, University of Texas Health Science Center, San Antonio, TX, USA",29.70302,-95.4033,77.5,151,182,21
+"TXHH - Memorial Hermann Hospital, University of Texas at Houston","Houston, TX",4,"TXHH - Memorial Hermann Hospital, University of Texas at Houston, Houston, TX, USA",29.5832,-95.20789,40,50,43.5,3
+TXHI - CHI St. Luke's Health Baylor College of Medicine Medical Center,"Houston, TX",4,"TXHI - CHI St. Luke's Health Baylor College of Medicine Medical Center, Houston, TX, USA",29.70871,-95.39996,87,193.5,265.5,20
+TXHS - Methodist Specialty and Transplant Hospital,"San Antonio, TX",4,"TXHS - Methodist Specialty and Transplant Hospital, San Antonio, TX, USA",29.51393,-98.5763,50,102,113.5,7
+TXJS - University of Texas Medical Branch at Galveston,"Galveston, TX",4,"TXJS - University of Texas Medical Branch at Galveston, Galveston, TX, USA",29.31064,-94.77679,18.5,44,49.5,2.5
+TXMC - Methodist Dallas Medical Center,"Dallas, TX",4,"TXMC - Methodist Dallas Medical Center, Dallas, TX, USA",32.76121,-96.82487,65.5,108,100.5,10.5
+TXMH - Houston Methodist Hospital,"Houston, TX",4,"TXMH - Houston Methodist Hospital, Houston, TX, USA",29.71004,-95.40038,127.5,250.5,352,21
+TXSP - UT Southwestern Medical Center/William P. Clements Jr. University Hospital,"Dallas, TX",4,"TXSP - UT Southwestern Medical Center/William P. Clements Jr. University Hospital, Dallas, TX, USA",32.8193,-96.84846,61,96,103,6.5
+TXTX - Baylor University Medical Center,"Dallas, TX",4,"TXTX - Baylor University Medical Center, Dallas, TX, USA",32.7884,-96.78215,121,172,119,8.5
+TXVA - Michael E. DeBakey VA Medical Center,"Houston, TX",4,"TXVA - Michael E. DeBakey VA Medical Center, Houston, TX, USA",29.71179,-95.39315,18,49,61.5,8
+UTLD - Intermountain Medical Center,"Murray, UT",5,"UTLD - Intermountain Medical Center, Murray, UT, USA",40.65931,-111.8903,46.5,52.5,80,4.5
+UTMC - University of Utah Medical Center,"Salt Lake City, UT",5,"UTMC - University of Utah Medical Center, Salt Lake City, UT, USA",40.76811,-111.83477,46,62,70.5,3
+VAMC - Medical College of Virginia Hospitals,"Richmond, VA",11,"VAMC - Medical College of Virginia Hospitals, Richmond, VA, USA",37.54068,-77.43367,73,99,78,12
+VAUV - University of Virginia Health Sciences Center,"Charlottesville, VA",11,"VAUV - University of Virginia Health Sciences Center, Charlottesville, VA, USA",38.03188,-78.49888,77,131.5,108,9.5
+WASM - Swedish Medical Center,"Seattle, WA",6,"WASM - Swedish Medical Center, Seattle, WA, USA",47.66742,-122.37961,33.5,84,70.5,5
+WAUW - University of Washington Medical Center,"Seattle, WA",6,"WAUW - University of Washington Medical Center, Seattle, WA, USA",47.64872,-122.30637,82,115,143.5,11.5
+WISE - Froedtert Memorial Lutheran Hospital,"Milwaukee, WI",7,"WISE - Froedtert Memorial Lutheran Hospital, Milwaukee, WI, USA",43.042,-87.90687,30,74.5,100,16.5
+WISL - Aurora St. Luke's Medical Center,"Milwaukee, WI",7,"WISL - Aurora St. Luke's Medical Center, Milwaukee, WI, USA",42.98975,-87.95074,28,62,65,2.5
+WIUW - University of Wisconsin Hospital and Clinics,"Madison, WI",7,"WIUW - University of Wisconsin Hospital and Clinics, Madison, WI, USA",43.07313,-89.38644,116,165,134.5,12

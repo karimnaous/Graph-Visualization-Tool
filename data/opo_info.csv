@@ -1,0 +1,59 @@
+Name ,Location ,Region ,Address,Lat,Long,Arrival Rate
+ALOB - Legacy of Hope,"Birmingham, AL",3,"ALOB - Legacy of Hope, Birmingham, AL, USA",33.52068,-86.81176,122
+AROR - Arkansas Regional Organ Recovery Agency,"Little Rock, AR",3,"AROR - Arkansas Regional Organ Recovery Agency, Little Rock, AR, USA",34.7487,-92.27485,44.4
+AZOB - Donor Network of Arizona,"Phoenix, AZ",5,"AZOB - Donor Network of Arizona, Phoenix, AZ, USA",33.44825,-112.0758,151.2
+CAOP - OneLegacy,"Los Angeles, CA",5,"CAOP - OneLegacy, Los Angeles, CA, USA",34.05361,-118.2455,238.2
+CASD - Lifesharing - A Donate Life Organization,"San Diego, CA",5,"CASD - Lifesharing - A Donate Life Organization, San Diego, CA, USA",32.71568,-117.16171,59.8
+CADN - Donor Network West,"San Ramon, CA",5,"CADN - Donor Network West, San Ramon, CA, USA",37.77945,-121.96901,304.2
+CAGS - Sierra Donor Services,"West Sacramento, CA",5,"CAGS - Sierra Donor Services, West Sacramento, CA, USA",38.57944,-121.49085,78.4
+CORS - Donor Alliance,"Denver, CO",8,"CORS - Donor Alliance, Denver, CO, USA",39.74001,-104.99202,86.4
+FLUF - LifeQuest Organ Recovery Services,"Gainesville, FL",3,"FLUF - LifeQuest Organ Recovery Services, Gainesville, FL, USA",29.65195,-82.32278,34.8
+FLFH - TransLife,"Maitland, FL",3,"FLFH - TransLife, Maitland, FL, USA",28.62736,-81.36454,96.8
+FLMP - Life Alliance Organ Recovery Agency,"Miami, FL",3,"FLMP - Life Alliance Organ Recovery Agency, Miami, FL, USA",25.77481,-80.19773,92
+FLWC - LifeLink of Florida,"Tampa, FL",3,"FLWC - LifeLink of Florida, Tampa, FL, USA",27.94653,-82.45927,130.6
+GALL - LifeLink of Georgia,"Norcross, GA",3,"GALL - LifeLink of Georgia, Norcross, GA, USA",33.94308,-84.2104,121.2
+HIOP - Legacy of Life Hawaii,"Honolulu, HI",6,"HIOP - Legacy of Life Hawaii, Honolulu, HI, USA",21.30493,-157.85788,174
+IAOP - Iowa Donor Network,"North Liberty, IA",8,"IAOP - Iowa Donor Network, North Liberty, IA, USA",41.74922,-91.59801,253.6
+ILIP - Gift of Hope Organ & Tissue Donor Network,"Itasca, IL",7,"ILIP - Gift of Hope Organ & Tissue Donor Network, Itasca, IL, USA",41.97144,-88.02139,22.8
+INOP - Indiana Donor Network,"Indianapolis, IN",10,"INOP - Indiana Donor Network, Indianapolis, IN, USA",39.76691,-86.14996,42.8
+MWOB - Midwest Transplant Network,"Westwood, KS",8,"MWOB - Midwest Transplant Network, Westwood, KS, USA",39.04341,-94.60741,274
+KYDA - Kentucky Organ Donor Affiliates,"Louisville, KY",11,"KYDA - Kentucky Organ Donor Affiliates, Louisville, KY, USA",38.25489,-85.76666,136.4
+LAOP - Louisiana Organ Procurement Agency,"Covington, LA",3,"LAOP - Louisiana Organ Procurement Agency, Covington, LA, USA",30.48014,-90.09541,92.4
+MAOB - New England Organ Bank,"Waltham, MA",1,"MAOB - New England Organ Bank, Waltham, MA, USA",42.37649,-71.23502,167.2
+CTOP - LifeChoice Donor Services,"Waltham, MA",1,"CTOP - LifeChoice Donor Services, Waltham, MA, USA",42.37649,-71.23502,196.2
+MDPC - The Living Legacy Foundation of Maryland,"Baltimore, MD",2,"MDPC - The Living Legacy Foundation of Maryland, Baltimore, MD, USA",39.29058,-76.60926,131.4
+MIOP - Gift of Life Michigan,"Ann Arbor, MI",10,"MIOP - Gift of Life Michigan, Ann Arbor, MI, USA",42.2821,-83.74847,202.8
+MNOP - LifeSource Upper Midwest Organ Procurement Organization,"Minneapolis, MN",7,"MNOP - LifeSource Upper Midwest Organ Procurement Organization, Minneapolis, MN, USA",44.97902,-93.26494,123.2
+MOMA - Mid-America Transplant Services,"St Louis, MO",8,"MOMA - Mid-America Transplant Services, St Louis, MO, USA",38.62775,-90.19956,147.2
+MSOP - Mississippi Organ Recovery Agency,"Flowood, MS",3,"MSOP - Mississippi Organ Recovery Agency, Flowood, MS, USA",32.31206,-90.13968,60.8
+NCCM - LifeShare Carolinas,"Charlotte, NC",11,"NCCM - LifeShare Carolinas, Charlotte, NC, USA",35.22286,-80.83796,158.2
+NCNC - Carolina Donor Services,"Greenville, NC",11,"NCNC - Carolina Donor Services, Greenville, NC, USA",35.61215,-77.38076,73.6
+NEOR - Live On Nebraska,"Omaha, NE",8,"NEOR - Live On Nebraska, Omaha, NE, USA",41.26068,-95.94026,127.8
+NJTO - New Jersey Organ and Tissue Sharing Network OPO,"New Providence, NJ",2,"NJTO - New Jersey Organ and Tissue Sharing Network OPO, New Providence, NJ, USA",40.70967,-74.40226,54.6
+NMOP - New Mexico Donor Services,"Albuquerque, NM",5,"NMOP - New Mexico Donor Services, Albuquerque, NM, USA",35.08423,-106.64905,121
+NVLV - Nevada Donor Network,"Las Vegas, NV",5,"NVLV - Nevada Donor Network, Las Vegas, NV, USA",36.17193,-115.14001,37
+NYAP - Center for Donation and Transplant,"Albany, NY",9,"NYAP - Center for Donation and Transplant, Albany, NY, USA",42.65155,-73.75521,85.2
+NYWN - Upstate New York Transplant Services Inc,"Buffalo, NY",9,"NYWN - Upstate New York Transplant Services Inc, Buffalo, NY, USA",42.88544,-78.87846,39.6
+NYRT - LiveOnNY,"New York, NY",9,"NYRT - LiveOnNY, New York, NY, USA",40.71455,-74.00714,30.2
+NYFL - Finger Lakes Donor Recovery Network,"Rochester, NY",9,"NYFL - Finger Lakes Donor Recovery Network, Rochester, NY, USA",43.1558,-77.61632,208.6
+OHOV - LifeCenter Organ Donor Network,"Cincinnati, OH",10,"OHOV - LifeCenter Organ Donor Network, Cincinnati, OH, USA",39.162,-84.45689,28.2
+OHLB - Lifebanc,"Cleveland, OH",10,"OHLB - Lifebanc, Cleveland, OH, USA",41.50473,-81.69074,111
+OHLP - Lifeline of Ohio,"Columbus, OH",10,"OHLP - Lifeline of Ohio, Columbus, OH, USA",39.96199,-83.00275,50
+OHLC - Life Connection of Ohio,"Maumee, OH",10,"OHLC - Life Connection of Ohio, Maumee, OH, USA",41.56335,-83.65417,78.6
+OKOP - LifeShare Transplant Donor Services of Oklahoma,"Oklahoma City, OK",4,"OKOP - LifeShare Transplant Donor Services of Oklahoma, Oklahoma City, OK, USA",35.47203,-97.52107,54.8
+ORUO - Pacific Northwest Transplant Bank,"Portland, OR",6,"ORUO - Pacific Northwest Transplant Bank, Portland, OR, USA",45.50402,-122.68144,102.6
+PADV - Gift of Life Donor Program,"Philadelphia, PA",2,"PADV - Gift of Life Donor Program, Philadelphia, PA, USA",39.95222,-75.16218,77.4
+PATF - Center for Organ Recovery and Education,"Pittsburgh, PA",2,"PATF - Center for Organ Recovery and Education, Pittsburgh, PA, USA",40.43851,-79.99734,343.6
+PRLL - LifeLink of Puerto Rico,"Guaynabo, PR",3,"PRLL - LifeLink of Puerto Rico, Guaynabo, PR, USA",18.35973,-66.11052,157
+SCOP - We Are Sharing Hope SC,"Charleston, SC",11,"SCOP - We Are Sharing Hope SC, Charleston, SC, USA",32.78115,-79.9316,83
+TNMS - Mid-South Transplant Foundation,"Cordova, TN",11,"TNMS - Mid-South Transplant Foundation, Cordova, TN, USA",35.15588,-89.77691,111.8
+TNDS - Tennessee Donor Services,"Nashville, TN",11,"TNDS - Tennessee Donor Services, Nashville, TN, USA",36.16784,-86.77816,223.2
+TXSB - Southwest Transplant Alliance,"Dallas, TX",4,"TXSB - Southwest Transplant Alliance, Dallas, TX, USA",32.77822,-96.79512,54.4
+TXGC - LifeGift Organ Donation Center,"Fort Worth, TX",4,"TXGC - LifeGift Organ Donation Center, Fort Worth, TX, USA",32.75095,-97.33086,249.6
+TXSA - Texas Organ Sharing Alliance,"San Antonio, TX",4,"TXSA - Texas Organ Sharing Alliance, San Antonio, TX, USA",29.42458,-98.49461,114.6
+UTOP - DonorConnect,"Salt Lake City, UT",5,"UTOP - DonorConnect, Salt Lake City, UT, USA",40.76031,-111.88822,274.8
+DCTC - Washington Regional Transplant Community,"Falls Church, VA",2,"DCTC - Washington Regional Transplant Community, Falls Church, VA, USA",38.88549,-77.17362,72.6
+VATB - LifeNet Health,"Virginia Beach, VA",11,"VATB - LifeNet Health, Virginia Beach, VA, USA",36.8083621,-76.13017151,105.2
+WALC - LifeCenter Northwest,"Bellevue, WA",6,"WALC - LifeCenter Northwest, Bellevue, WA, USA",47.63194,-122.20232,138.6
+WIUW - UW Health Organ and Tissue Donation,"Madison, WI",7,"WIUW - UW Health Organ and Tissue Donation, Madison, WI, USA",43.07313,-89.38644,62
+"WIDN - Versiti Wisconsin, Inc","Milwaukee, WI",7,"WIDN - Versiti Wisconsin, Inc, Milwaukee, WI, USA",43.042,-87.90687,79.8
